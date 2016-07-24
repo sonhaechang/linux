@@ -22,35 +22,52 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
 - TBD
+
 ### 2주차: Github
 - TBD
+
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
 - TBD
+
 ### 4주차: 기초 웹 프로그래밍 II - Java Script
 - TBD
+
 ### 5주차: Bootstrap 
 - TBD
+
 ### 6주차: JQuery
 - TBD
+
 ### 7주차: 시스템 설계하기 & 아이디어 만들기
 - TBD
+
 ### 8주차: 중간고사
+- TBD
+
 ### 9주차: Database & MySQL
 - TBD
 - 아이디어톤
+
 ### 10주차: Django I
 - TBD
+
 ### 11주차: Django II
 - TBD
+
 ### 12주차: Service Build
 - TBD
+
 ### 13주차: 클라우드와 Amazone Web Service
 - TBD
+
 ### 14주차: Service on Cloud
 - TBD
+
 ### 15주차: Buffer Week
 - TBD
+
 ### 16주차: Final Exam
 - TBD
+
 ### 17주차: 해커톤
 - TBD
