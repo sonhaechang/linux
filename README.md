@@ -21,10 +21,10 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
-- Youtube 
-    -[프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
+- Python 강의
+    - [프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
 - Codecademy 
-    -[Python](https://www.codecademy.com/learn/python)
+    - [Python](https://www.codecademy.com/learn/python)
 
 ### 2주차: Github
 - Codecademy 
