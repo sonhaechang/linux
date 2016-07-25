@@ -24,7 +24,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - TBD
 
 ### 2주차: Github
-- TBD
+- [Codecademy Learn Git](https://www.codecademy.com/learn/learn-git)
 
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
 - TBD
