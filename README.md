@@ -21,21 +21,27 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
-- Youtube [프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
-- Codecademy [Python](https://www.codecademy.com/learn/python)
+- Youtube 
+    -[프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
+- Codecademy 
+    -[Python](https://www.codecademy.com/learn/python)
 
 ### 2주차: Github
-- Codecademy [Learn Git](https://www.codecademy.com/learn/learn-git)
+- Codecademy 
+    - [Learn Git](https://www.codecademy.com/learn/learn-git)
 - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩,2014)
 
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
-- Codecademy [HTML&CSS](https://www.codecademy.com/learn/web)
-- Codecademy [Make a Website](https://www.codecademy.com/learn/make-a-website)
+- Codecademy 
+    - [HTML&CSS](https://www.codecademy.com/learn/web)
+    - [Make a Website](https://www.codecademy.com/learn/make-a-website)
 - Reference Data 
     - [W3S HTML](http://www.w3schools.com/html/default.asp)
     - [W3S CSS](http://www.w3schools.com/css/default.asp)
+
 ### 4주차: 기초 웹 프로그래밍 II - Java Script
-- Codecademy [Java Script](https://www.codecademy.com/learn/javascript)
+- Codecademy 
+    - [Java Script](https://www.codecademy.com/learn/javascript)
 - Reference Data 
     - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
 
