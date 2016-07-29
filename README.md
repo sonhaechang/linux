@@ -46,10 +46,15 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
     - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
 
 ### 5주차: Bootstrap 
-- TBD
+- Reference Data
+    -[W3S Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp)
 
-### 6주차: JQuery
-- TBD
+
+### 6주차: jQuery
+- Codecademy
+    -[jQuery](https://www.codecademy.com/learn/jquery)
+- Reference Data
+    -[jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
 
 ### 7주차: 시스템 설계하기 & 아이디어 만들기
 - TBD
