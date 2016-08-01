@@ -63,7 +63,8 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - TBD
 
 ### 9주차: Database & MySQL
-- TBD
+- 
+- [MySQL 강의](https://www.youtube.com/playlist?list=PL79A3BAFA1DF178BF)(생활코딩,2012)
 - 아이디어톤
 
 ### 10주차: Django I
@@ -76,7 +77,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - TBD
 
 ### 13주차: 클라우드와 Amazone Web Service
-- TBD
+- [AWS 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)(생활코딩,2016)
 
 ### 14주차: Service on Cloud
 - TBD
