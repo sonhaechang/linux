@@ -68,15 +68,18 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - TBD
 
 ### 9주차: Database & MySQL
-- 
+- Databases 강의
+    - [데이터베이스(MySQL)이론 1](https://www.youtube.com/watch?v=GKlUJkvLd6c)(생활코딩, 2015)
+    - [데이터베이스(MySQL)이론 2](https://www.youtube.com/watch?v=W7lmchYciMk)(생활코딩, 2015)
+    - [데이터베이스(MySQL)이론 3](https://www.youtube.com/watch?v=XhEBiOhXH7o)(생활코딩, 2015)
 - [MySQL 강의](https://www.youtube.com/playlist?list=PL79A3BAFA1DF178BF)(생활코딩,2012)
 - 아이디어톤
 
 ### 10주차: Django I
-- TBD
+- [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
 
 ### 11주차: Django II
-- TBD
+- [Django 실습](https://www.youtube.com/watch?v=Fn2XMeRmwe4)(onecue Kim, 2015)
 
 ### 12주차: Service Build
 - TBD
