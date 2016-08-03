@@ -21,22 +21,49 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
-- TBD
+- Python 강의
+    - [프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
+- Codecademy 
+    - [Python](https://www.codecademy.com/learn/python)
+- CodeFights Python 토너먼트
 
 ### 2주차: Github
-- TBD
+- Codecademy 
+    - [Learn Git](https://www.codecademy.com/learn/learn-git)
+- [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩, 2014)
 
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
-- TBD
+- Codecademy 
+    - [HTML&CSS](https://www.codecademy.com/learn/web)
+    - [Make a Website](https://www.codecademy.com/learn/make-a-website)
+- Reference Data 
+    - [W3S HTML](http://www.w3schools.com/html/default.asp)
+    - [W3S CSS](http://www.w3schools.com/css/default.asp)
+- [HTML 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)(생활코딩, 2015)
+- [CSS 강의](https://www.youtube.com/playlist?list=PL19A855560BD98721)(생활코딩, 2014)
 
 ### 4주차: 기초 웹 프로그래밍 II - Java Script
-- TBD
+- Codecademy 
+    - [Java Script](https://www.codecademy.com/learn/javascript)
+- Reference Data 
+    - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
+- Java Script 강의
+    - [JS 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)(생활코딩, 2014)
+    - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
+- CodeFights JavaScript 토너먼트
 
 ### 5주차: Bootstrap 
-- TBD
+- Reference Data
+    - [W3S Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp)
+    - [Bootstrap 홈페이지](http://bootstrapk.com/)
+- [Bootstrap 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoSN5_-w06dk9P3pCZq1Qsw8)(웹학교, 2014)
 
-### 6주차: JQuery
-- TBD
+### 6주차: jQuery
+- Codecademy
+    - [jQuery](https://www.codecademy.com/learn/jquery)
+- Reference Data
+    - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
+- [jQuery 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoR_VtxvBsBW9n6w9O1GqqKk)(웹학교, 2014)
 
 ### 7주차: 시스템 설계하기 & 아이디어 만들기
 - TBD
@@ -45,23 +72,29 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - TBD
 
 ### 9주차: Database & MySQL
-- TBD
+- Databases 강의
+    - [데이터베이스(MySQL)이론 1](https://www.youtube.com/watch?v=GKlUJkvLd6c)(생활코딩, 2015)
+    - [데이터베이스(MySQL)이론 2](https://www.youtube.com/watch?v=W7lmchYciMk)(생활코딩, 2015)
+    - [데이터베이스(MySQL)이론 3](https://www.youtube.com/watch?v=XhEBiOhXH7o)(생활코딩, 2015)
+- [MySQL 강의](https://www.youtube.com/playlist?list=PL79A3BAFA1DF178BF)(생활코딩,2012)
 - 아이디어톤
 
 ### 10주차: Django I
-- TBD
+- [Django Tutorial](http://tutorial.djangogirls.org/ko/)
+- [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
 
 ### 11주차: Django II
-- TBD
+- [Django 실습](https://www.youtube.com/watch?v=Fn2XMeRmwe4)(onecue Kim, 2015)
 
 ### 12주차: Service Build
 - TBD
 
 ### 13주차: 클라우드와 Amazone Web Service
-- TBD
+- [AWS 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)(생활코딩,2016)
 
 ### 14주차: Service on Cloud
-- TBD
+- 클린 코드를 위한 테스트 주도 개발 8장 참고
+- 아마존 웹 서비스를 다루는 기술 4장 - 7장 참고
 
 ### 15주차: Buffer Week
 - TBD
