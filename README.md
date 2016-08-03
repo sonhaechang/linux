@@ -25,6 +25,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
     - [프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
 - Codecademy 
     - [Python](https://www.codecademy.com/learn/python)
+- CodeFights Python 토너먼트
 
 ### 2주차: Github
 - Codecademy 
@@ -49,18 +50,20 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - Java Script 강의
     - [JS 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)(생활코딩, 2014)
     - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
+- CodeFights JavaScript 토너먼트
 
 ### 5주차: Bootstrap 
 - Reference Data
     - [W3S Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp)
-
+    - [Bootstrap 홈페이지](http://bootstrapk.com/)
+- [Bootstrap 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoSN5_-w06dk9P3pCZq1Qsw8)(웹학교, 2014)
 
 ### 6주차: jQuery
 - Codecademy
     - [jQuery](https://www.codecademy.com/learn/jquery)
 - Reference Data
     - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
-
+- [jQuery 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoR_VtxvBsBW9n6w9O1GqqKk)(웹학교, 2014)
 ### 7주차: 시스템 설계하기 & 아이디어 만들기
 - TBD
 
@@ -76,6 +79,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - 아이디어톤
 
 ### 10주차: Django I
+- [Django Tutorial](http://tutorial.djangogirls.org/ko/)
 - [Django 개념](https://www.youtube.com/watch?v=LYmZB5IIwAI)(onecue Kim, 2015)
 
 ### 11주차: Django II
