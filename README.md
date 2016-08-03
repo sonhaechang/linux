@@ -64,6 +64,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - Reference Data
     - [jQuery Tutorial](http://www.w3schools.com/jquery/default.asp)
 - [jQuery 강의](https://www.youtube.com/playlist?list=PLdajQmV2DgoR_VtxvBsBW9n6w9O1GqqKk)(웹학교, 2014)
+
 ### 7주차: 시스템 설계하기 & 아이디어 만들기
 - TBD
 
