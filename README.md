@@ -93,7 +93,8 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - [AWS 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)(생활코딩,2016)
 
 ### 14주차: Service on Cloud
-- TBD
+- 클린 코드를 위한 테스트 주도 개발 8장 참고
+- 아마존 웹 서비스를 다루는 기술 4장 - 7장 참고
 
 ### 15주차: Buffer Week
 - TBD
