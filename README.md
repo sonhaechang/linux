@@ -40,7 +40,8 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
     - [W3S HTML](http://www.w3schools.com/html/default.asp)
     - [W3S CSS](http://www.w3schools.com/css/default.asp)
 - [HTML 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMDUzDDCKW-pCZQY-MMCX5yB)(생활코딩, 2015)
-- [CSS 강의](https://www.youtube.com/playlist?list=PL19A855560BD98721)(생활코딩, 2014)
+- [CSS 기본](https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)(생활코딩, 2016)
+- [CSS 심화](https://www.youtube.com/playlist?list=PL19A855560BD98721)(생활코딩, 2014)
 
 ### 4주차: 기초 웹 프로그래밍 II - Java Script
 - Codecademy 
@@ -48,6 +49,7 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 - Reference Data 
     - [W3S JS Tutorial](http://www.w3schools.com/js/default.asp)
 - Java Script 강의
+	- [JS 오리엔테이션](https://www.youtube.com/playlist?list=PLuHgQVnccGMD4YCWd138Yt7UBjC8Ll6eS)(생활코딩, 2014)
     - [JS 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)(생활코딩, 2014)
     - [JS for Web](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX)(생활코딩, 2015)
 - CodeFights JavaScript 토너먼트
