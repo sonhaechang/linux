@@ -21,16 +21,28 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
 
 ## 강의 구성
 ### 1주차: 웹 프로그래밍 개요와 Python Revisited
-- Python 강의
-    - [프로그래밍 입문 with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
-- Codecademy 
-    - [Python](https://www.codecademy.com/learn/python)
-- CodeFights Python 토너먼트
+- 강의 컨텐츠
+    - 웹 프로그래밍 개요 - [강의자료](https://doc.co/fPtBHX/qj9tkx)
+- Resources
+    - [Codecademy: Python](https://www.codecademy.com/learn/python)
+    - CodeFights Python 토너먼트
+    - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
+    
+
 
 ### 2주차: Github
-- Codecademy 
-    - [Learn Git](https://www.codecademy.com/learn/learn-git)
-- [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩, 2014)
+- 강의 컨텐츠
+    -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), 강의영상
+    -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), 강의영상
+    -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), 강의영상
+    -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), 강의영상
+    -  Git Remote Repository & GitHub - 강의자료, 강의영상
+    -  Git Code Share Strategy - 강의자료, 강의영상
+- Quest
+- Mission
+    - [Codecademy :Learn Git](https://www.codecademy.com/learn/learn-git)
+- Resources
+    - [Git 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)(생활코딩, 2014)
 
 ### 3주차: 웹 프로그래밍의 이해와 기초 웹 프로그래밍
 - Codecademy 
