@@ -27,18 +27,17 @@ Gachon CS50은 아래와 같이 두 개의 강좌로 구성되어 있으며 본 
     - [Codecademy: Python](https://www.codecademy.com/learn/python)
     - CodeFights Python 토너먼트
     - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-    
-
 
 ### 2주차: Github
 - 강의 컨텐츠
-    -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), 강의영상
-    -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), 강의영상
-    -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), 강의영상
-    -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), 강의영상
-    -  Git Remote Repository & GitHub - 강의자료, 강의영상
-    -  Git Code Share Strategy - 강의자료, 강의영상
-- Quest
+    -  Git Overview - [강의자료](https://doc.co/Qt5pA4/qj9tkx), [강의영상](https://youtu.be/JBN_hjgR1KQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git File Status - [강의자료](https://doc.co/DipLMM/qj9tkx), [강의영상](https://youtu.be/TGv-pvdCBWg?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Log - [강의자료](https://doc.co/3XrCq7/qj9tkx), [강의영상](https://youtu.be/qO9VfdQdEio?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Branch - [강의자료](https://doc.co/pvrnZf/qj9tkx), [강의영상](https://youtu.be/mVvSeF6O8sM?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Remote Repository & GitHub - [강의자료](https://doc.co/uTyNyV/qj9tkx), [강의영상](https://youtu.be/49C7dJgG0EQ?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+    -  Git Code Share Strategy - [강의자료](https://doc.co/fjxoFX/qj9tkx), 강의영상
+- Lab
+    -  [Hello, Git](https://github.com/TeamLab/CS50_Web_Programming_Labs/blob/master/1_git/README.md)
 - Mission
     - [Codecademy :Learn Git](https://www.codecademy.com/learn/learn-git)
 - Resources
